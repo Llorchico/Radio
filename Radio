@@ -156,8 +156,7 @@ http://s02.fjperezdj.com:8065/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Urban
 http://locafm02.we4stream.com:8015/live
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/clasicafmradio/picture?width=200&height=200" tvg-id="", Clásica 
-FM
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/clasicafmradio/picture?width=200&height=200" tvg-id="", Clásica FM
 https://edge.mixlr.com/channel/asnfw
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/digitalhits/picture?width=200&height=200" tvg-id="", Digital Hits FM
