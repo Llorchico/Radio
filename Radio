@@ -9,11 +9,10 @@ https://flucast-m04-06.flumotion.com/cope/net1.mp3
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" tvg-id="COPE.Radio", Cope
 https://flucast-m04-06.flumotion.com/cope/net1.mp3
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" tvg-id="RNE", Radio
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" tvg-id="RNE", RNE
 https://rtvelivestream.akamaized.net/segments/rne/rne_r1_main.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/esradio/picture?width=200&height=200" tvg-id="esRadio.Radio", E
-S Radio
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/esradio/picture?width=200&height=200" tvg-id="esRadio.Radio", ES Radio
 https://livestreaming3.esradio.fm/stream64.mp3
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg" tvg-id="RNE5.Radio", RNE 5
@@ -25,8 +24,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/catradio/picture?width=200&height=200" tvg-id="CAT.Radio", Cataluña Radio
 https://directes-radio-int.ccma.cat/live-content/catalunya-radio-hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/los40/picture?width=200&height=200" tvg-id="los40.Radio"
-https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3, Los 40
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/los40/picture?width=200&height=200" tvg-id="los40.Radio", Los 40
+https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cadenadial/picture?width=200&height=200" tvg-id="CadenaDial.Radio", Cadena Dial
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
