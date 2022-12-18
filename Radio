@@ -3,8 +3,7 @@
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" tvg-id="CadenaS.Radio", Cadena Ser
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" tvg-id="OC.Radio"
-, Onda Cero 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" tvg-id="OC.Radio", Onda Cero 
 https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" tvg-id="COPE.Radio", Cope
