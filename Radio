@@ -4,7 +4,7 @@
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" tvg-id="OC.Radio", Onda Cero 
-https://flucast-m04-06.flumotion.com/cope/net1.mp3
+https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" tvg-id="COPE.Radio", Cope
 https://flucast-m04-06.flumotion.com/cope/net1.mp3
@@ -57,7 +57,7 @@ https://cdnlive.shooowit.net/rtvalive/smil:channel5.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1051761197127745541/whMnn4_K_200x200.jpg" tvg-id="", Flaix FM
 https://flaixfm.streaming-pro.com:8001/flaixfm.mp3
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1164926188307001344/PtDeZDOO_200x200.jpg" tvg-id="", FlaixBac
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1164926188307001344/PtDeZDOO_200x200.jpg" tvg-id="", Flaix Bac
 https://flaixbac.streaming-pro.com:8007/flaixbac.mp3
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rac105/picture?width=200&height=200" tvg-id="", RAC 105
@@ -80,3 +80,88 @@ http://s3.we4stream.com:8045/live
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/radioclasicartve/picture?width=200&height=200" tvg-id="RNEClasica.Radio", RNE Clásica
 https://rtvelivestream.akamaized.net/segments/rne/rne_r2_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/los40dance/picture?width=200&height=200" tvg-id="los40dance.Radio", Los 40 Dance
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/los40urban/picture?width=200&height=200" tvg-id="los40urban.Radio", Los 40 Urban
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3
+
+#EXTINF:-1 tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743853.jpg" tvg-id="",Dial Baladas
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.mp3
+
+#EXTINF:-1 tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743852.jpg" tvg-id="", Dial Esencial
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_01.mp3
+
+#EXTINF:-1 tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743851.jpg" tvg-id="", Dial Latino
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02AAC_SC
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Dance
+http://s02.fjperezdj.com:8025/live
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Remember
+http://s02.fjperezdj.com:8035/live
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM House
+http://s02.fjperezdj.com:8026/live
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Chill Out
+http://s02.fjperezdj.com:8006/live
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="",Loca FM Tech House
+http://s02.fjperezdj.com:8046/live
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Trance
+http://s02.fjperezdj.com:8055/live
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Techno
+http://s02.fjperezdj.com:8050/live
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Big Room
+http://s02.fjperezdj.com:8005/live
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Dub Techno
+http://s02.fjperezdj.com:8066/live
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Hard
+http://s02.fjperezdj.com:8016/live
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Sessions
+http://s02.fjperezdj.com:8095/live
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Ambient
+http://s02.fjperezdj.com:8036/live
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM 80
+http://s02.fjperezdj.com:8075/live
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM 90
+http://s02.fjperezdj.com:8000/live
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Melodic Techno
+http://s02.fjperezdj.com:8056/live
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Trap
+http://s02.fjperezdj.com:8060/live
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Pride
+http://s02.fjperezdj.com:8070/live
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Industrial
+http://s02.fjperezdj.com:8076/live
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Drum&Bass
+http://s02.fjperezdj.com:8065/live
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Urban
+http://locafm02.we4stream.com:8015/live
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/clasicafmradio/picture?width=200&height=200" tvg-id="", Clásica 
+FM
+https://edge.mixlr.com/channel/asnfw
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/digitalhits/picture?width=200&height=200" tvg-id="", Digital Hits FM
+http://digitalhits.frilab.com:8000/digitalhits;
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/fmurban/picture?width=200&height=200" tvg-id="", La Urban Radio
+https://st1.urbanrevolution.es:8443/laurbanfm.mp3
