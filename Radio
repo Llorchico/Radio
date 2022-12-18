@@ -11,3 +11,73 @@ https://flucast-m04-06.flumotion.com/cope/net1.mp3
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" tvg-id="RNE", Radio
 https://rtvelivestream.akamaized.net/segments/rne/rne_r1_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/esradio/picture?width=200&height=200" tvg-id="esRadio.Radio", E
+S Radio
+https://livestreaming3.esradio.fm/stream64.mp3
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg" tvg-id="RNE5.Radio", RNE 5
+https://rtvelivestream.akamaized.net/segments/rne/rne_r5_madrid_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/rac1oficial/picture?width=200&height=200" tvg-id="RAC1.Radio", RAC 1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/catradio/picture?width=200&height=200" tvg-id="CAT.Radio", Cataluña Radio
+https://directes-radio-int.ccma.cat/live-content/catalunya-radio-hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/los40/picture?width=200&height=200" tvg-id="los40.Radio"
+https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3, Los 40
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/cadenadial/picture?width=200&height=200" tvg-id="CadenaDial.Radio", Cadena Dial
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CADENA100/picture?width=200&height=200" tvg-id="Cadena100.Radio", Cadena 100
+https://cadena100-cope.flumotion.com/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tueuropafm/picture?width=200&height=200" tvg-id="EuropaFM.Radio", Europa FM
+https://livefastly-webs.europafm.com/europafm/audio/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RockFM/picture?width=200&height=200" tvg-id="RockFM.Radio", Rock FM
+https://rockfm-cope.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" tvg-id="RNE3.Radio",RNE 3
+https://rtvelivestream.akamaized.net/segments/rne/rne_r3_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200" tvg-id="los40classic.Radio", Los 40 Classic
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/kissfm.es/picture?width=200&height=200" tvg-id="KissFm.Radio", Kiss FM
+https://kissfm.kissfmradio.cires21.com/kissfm.mp3
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radiole/picture?width=200&height=200" tvg-id="Radio.Radio", Radio Ole
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" tvg-id="CanalFiesta.Radio", Canal Fiesta
+https://cdnlive.shooowit.net/rtvalive/smil:channel5.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1051761197127745541/whMnn4_K_200x200.jpg" tvg-id="", Flaix FM
+https://flaixfm.streaming-pro.com:8001/flaixfm.mp3
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1164926188307001344/PtDeZDOO_200x200.jpg" tvg-id="", FlaixBac
+https://flaixbac.streaming-pro.com:8007/flaixbac.mp3
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/rac105/picture?width=200&height=200" tvg-id="", RAC 105
+https://streaming.rac105.cat/
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radioteletaxi/picture?width=200&height=200" tvg-id="Teletaxi.Radio", Tele-Taxi
+https://radiott-web.streaming-pro.com:6103/radiott.mp3
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/hitfm.es/picture?width=200&height=200" tvg-id="HitFM.Radio", Hit FM
+https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/MegaStarFM/picture?width=200&height=200" tvg-id="MegaStar.Radio", Mega Star
+https://megastar-cope.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tumelodiafm/picture?width=200&height=200" tvg-id="", Melodia FM
+https://livefastly-webs.melodia-fm.com/melodiafm/audio/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="LocaFM.Radio", Loca FM
+http://s3.we4stream.com:8045/live
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radioclasicartve/picture?width=200&height=200" tvg-id="RNEClasica.Radio", RNE Clásica
+https://rtvelivestream.akamaized.net/segments/rne/rne_r2_main.m3u8
