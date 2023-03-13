@@ -1,166 +1,371 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" tvg-id="CadenaS.Radio", Cadena Ser
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" tvg-id="OC.Radio", Onda Cero 
-https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" tvg-id="COPE.Radio", Cope
-https://flucast-m04-06.flumotion.com/cope/net1.mp3
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" tvg-id="RNE", RNE
-https://rtvelivestream.akamaized.net/segments/rne/rne_r1_main.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/esradio/picture?width=200&height=200" tvg-id="esRadio.Radio", ES Radio
-https://livestreaming3.esradio.fm/stream64.mp3
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg" tvg-id="RNE5.Radio", RNE 5
-https://rtvelivestream.akamaized.net/segments/rne/rne_r5_madrid_main.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/rac1oficial/picture?width=200&height=200" tvg-id="RAC1.Radio", RAC 1
-https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/catradio/picture?width=200&height=200" tvg-id="CAT.Radio", Cataluña Radio
-https://directes-radio-int.ccma.cat/live-content/catalunya-radio-hls/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/los40/picture?width=200&height=200" tvg-id="los40.Radio", Los 40
-https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cadenadial/picture?width=200&height=200" tvg-id="CadenaDial.Radio", Cadena Dial
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CADENA100/picture?width=200&height=200" tvg-id="Cadena100.Radio", Cadena 100
-https://cadena100-cope.flumotion.com/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tueuropafm/picture?width=200&height=200" tvg-id="EuropaFM.Radio", Europa FM
-https://livefastly-webs.europafm.com/europafm/audio/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RockFM/picture?width=200&height=200" tvg-id="RockFM.Radio", Rock FM
-https://rockfm-cope.flumotion.com/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" tvg-id="RNE3.Radio",RNE 3
-https://rtvelivestream.akamaized.net/segments/rne/rne_r3_main.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200" tvg-id="los40classic.Radio", Los 40 Classic
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/kissfm.es/picture?width=200&height=200" tvg-id="KissFm.Radio", Kiss FM
-https://kissfm.kissfmradio.cires21.com/kissfm.mp3
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/radiole/picture?width=200&height=200" tvg-id="Radio.Radio", Radio Ole
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" tvg-id="CanalFiesta.Radio", Canal Fiesta
-https://cdnlive.shooowit.net/rtvalive/smil:channel5.smil/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1051761197127745541/whMnn4_K_200x200.jpg" tvg-id="", Flaix FM
-https://flaixfm.streaming-pro.com:8001/flaixfm.mp3
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1164926188307001344/PtDeZDOO_200x200.jpg" tvg-id="", Flaix Bac
-https://flaixbac.streaming-pro.com:8007/flaixbac.mp3
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/rac105/picture?width=200&height=200" tvg-id="", RAC 105
-https://streaming.rac105.cat/
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/radioteletaxi/picture?width=200&height=200" tvg-id="Teletaxi.Radio", Tele-Taxi
-https://radiott-web.streaming-pro.com:6103/radiott.mp3
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/hitfm.es/picture?width=200&height=200" tvg-id="HitFM.Radio", Hit FM
-https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/MegaStarFM/picture?width=200&height=200" tvg-id="MegaStar.Radio", Mega Star
-https://megastar-cope.flumotion.com/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tumelodiafm/picture?width=200&height=200" tvg-id="", Melodia FM
-https://livefastly-webs.melodia-fm.com/melodiafm/audio/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="LocaFM.Radio", Loca FM
-http://s3.we4stream.com:8045/live
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/radioclasicartve/picture?width=200&height=200" tvg-id="RNEClasica.Radio", RNE Clásica
-https://rtvelivestream.akamaized.net/segments/rne/rne_r2_main.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/los40dance/picture?width=200&height=200" tvg-id="los40dance.Radio", Los 40 Dance
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/los40urban/picture?width=200&height=200" tvg-id="los40urban.Radio", Los 40 Urban
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3
-
-#EXTINF:-1 tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743853.jpg" tvg-id="",Dial Baladas
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.mp3
-
-#EXTINF:-1 tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743852.jpg" tvg-id="", Dial Esencial
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_01.mp3
-
-#EXTINF:-1 tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743851.jpg" tvg-id="", Dial Latino
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02AAC_SC
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Dance
-http://s02.fjperezdj.com:8025/live
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Remember
-http://s02.fjperezdj.com:8035/live
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM House
-http://s02.fjperezdj.com:8026/live
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Chill Out
-http://s02.fjperezdj.com:8006/live
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="",Loca FM Tech House
-http://s02.fjperezdj.com:8046/live
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Trance
-http://s02.fjperezdj.com:8055/live
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Techno
-http://s02.fjperezdj.com:8050/live
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Big Room
-http://s02.fjperezdj.com:8005/live
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Dub Techno
-http://s02.fjperezdj.com:8066/live
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Hard
-http://s02.fjperezdj.com:8016/live
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Sessions
-http://s02.fjperezdj.com:8095/live
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Ambient
-http://s02.fjperezdj.com:8036/live
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM 80
-http://s02.fjperezdj.com:8075/live
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM 90
-http://s02.fjperezdj.com:8000/live
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Melodic Techno
-http://s02.fjperezdj.com:8056/live
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Trap
-http://s02.fjperezdj.com:8060/live
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Pride
-http://s02.fjperezdj.com:8070/live
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Industrial
-http://s02.fjperezdj.com:8076/live
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Drum&Bass
-http://s02.fjperezdj.com:8065/live
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" tvg-id="", Loca FM Urban
-http://locafm02.we4stream.com:8015/live
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/clasicafmradio/picture?width=200&height=200" tvg-id="", Clásica FM
-https://edge.mixlr.com/channel/asnfw
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/digitalhits/picture?width=200&height=200" tvg-id="", Digital Hits FM
-http://digitalhits.frilab.com:8000/digitalhits;
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/fmurban/picture?width=200&height=200" tvg-id="", La Urban Radio
-https://st1.urbanrevolution.es:8443/laurbanfm.mp3
+#EXTINF:-1,24/7 Naruto Shippuden (e)()
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37811
+#EXTINF:-1,24/7 Dragon Ball Z - Saga de Freezer (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37812
+#EXTINF:-1,24/7 Dragon Ball Z - Saga Majin Boo (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37813
+#EXTINF:-1,24/7 Caballeros del Zodiaco (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37815
+#EXTINF:-1,24/7 Dragon Ball (e)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37816
+#EXTINF:-1,24/7 Super Campeones 2002 (e)(SD)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37817
+#EXTINF:-1,24/7 Dragon Ball Z - Saga Cell (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37826
+#EXTINF:-1,24/7 Super Campeones (e)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37828
+#EXTINF:-1,24/7 Dragon Ball GT (e)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37831
+#EXTINF:-1,24/7 Samurai X (e)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37836
+#EXTINF:-1,24/7 Dragon Ball Super (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37841
+#EXTINF:-1,24/7 Caballeros del Zodiaco Hades & Alma de oro (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37845
+#EXTINF:-1,24/7 Dragon Quest Las aventuras de Fly (e)(SD)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/38319
+#EXTINF:-1,24/7 Ranma ½ (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/38449
+#EXTINF:-1,24/7 Inuyasha (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/38496
+#EXTINF:-1,24/7 Dragon Ball Peliculas (e)(1080)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/119556
+#EXTINF:-1,24/7 Bruce Lee (e)(1080)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37763
+#EXTINF:-1,24/7 La Familia Monster (e)(SD)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37787
+#EXTINF:-1,24/7 Super Agente 86 (e)(SD)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37789
+#EXTINF:-1,24/7 Cabalozos y Dragones (e)(SD)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37790
+#EXTINF:-1,24/7 Zenki (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37759
+#EXTINF:-1,24/7 Digimon (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37814
+#EXTINF:-1,24/7 Neon Genesis Evangelion (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37864
+#EXTINF:-1,24/7 Los justicieros HQ (e)(SD)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/38632
+#EXTINF:-1,24/7 Mazinger Z (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/38520
+#EXTINF:-1,24/7 He-Man y los amos del universo (e)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37771
+#EXTINF:-1,24/7 Los Thundercats (e)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37837
+#EXTINF:-1,24/7 X-Men Animated Series (e) (SD)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37838
+#EXTINF:-1,24/7 Looney Tunes (e)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37848
+#EXTINF:-1,24/7 El nuevo show del Pájaro Loco (e)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37852
+#EXTINF:-1,24/7 Spider-Man Animated Series (e) (720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37857
+#EXTINF:-1,24/7 Tom and Jerry The Classic  (e)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37859
+#EXTINF:-1,24/7 Tropa Goofy (e)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37862
+#EXTINF:-1,24/7 Batman La Serie Animada (e)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37868
+#EXTINF:-1,24/7 DC Comics Peliculas (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37871
+#EXTINF:-1,24/7 DC Comics Series (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37874
+#EXTINF:-1,24/7 Animaniacs (e)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37879
+#EXTINF:-1,24/7 Los Halcones Galacticos (e)(SD)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/44380
+#EXTINF:-1,24/7 Defensores de la Tierra (e)(SD)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/44382
+#EXTINF:-1,24/7 Las aventuras de los Osos Gummi (e)(SD)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/54222
+#EXTINF:-1,24/7 Estrenos Accion (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/144548
+#EXTINF:-1,24/7 Estrenos Aventura (720)(e)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/144550
+#EXTINF:-1,24/7 Estrenos CienciaFiccion (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/144551
+#EXTINF:-1,24/7 Estrenos Comedia (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/144552
+#EXTINF:-1,24/7 Estrenos Animacion (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/144549
+#EXTINF:-1,24/7 Estrenos Disney (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/144553
+#EXTINF:-1,24/7 Estrenos Familiar (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/144554
+#EXTINF:-1,24/7 Universo Marvel (e)(1080)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37907
+#EXTINF:-1,24/7 Disney Clasicos Animados (e)(1080)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37908
+#EXTINF:-1,24/7 Marvel Comics (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37909
+#EXTINF:-1,24/7 Disney Animacion 3D (e)(1080)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37910
+#EXTINF:-1,24/7 Marvel Comics Peliculas (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37911
+#EXTINF:-1,24/7 DC Lego (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37914
+#EXTINF:-1,24/7 Sagas (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37915
+#EXTINF:-1,24/7 Universo DC (e)(1080)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37916
+#EXTINF:-1,24/7 Infantil (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37919
+#EXTINF:-1,24/7 X-Men (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37924
+#EXTINF:-1,24/7 Jackie Chan (e)(HQ)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/54827
+#EXTINF:-1,24/7 Heidi (e)(SD)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/38322
+#EXTINF:-1,24/7 Fuerza G (e)(SD)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/38321
+#EXTINF:-1,24/7 Sailor Moon (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/38446
+#EXTINF:-1,24/7 Robotech (e)(SD)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/38455
+#EXTINF:-1,24/7 Estrenos Accion (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/144548
+#EXTINF:-1,24/7 Estrenos Aventura (720)(e)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/144550
+#EXTINF:-1,24/7 Estrenos CienciaFiccion (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/144551
+#EXTINF:-1,24/7 Estrenos Comedia (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/144552
+#EXTINF:-1,24/7 Estrenos Animacion (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/144549
+#EXTINF:-1,24/7 Estrenos Disney (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/144553
+#EXTINF:-1,24/7 Estrenos Familiar (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/144554
+#EXTINF:-1,24/7 Harry Potter (e) (1080) 
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37755
+#EXTINF:-1,24/7 Los Locos Addams  (e)(SD)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37786
+#EXTINF:-1,24/7 Futurama (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37835
+#EXTINF:-1,24/7 Popeye El Marino (e)(1080)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37855
+#EXTINF:-1,24/7 Fantasia (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37921
+#EXTINF:-1,24/7 X-Men (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37924
+#EXTINF:-1,24/7 CienciaFiccion (e)(1080)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37929
+#EXTINF:-1,24/7 Aventura (e)(1080)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/37931
+#EXTINF:-1,24/7 Cine Catastrofico (e)(1080)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/40270
+#EXTINF:-1,24/7 Crimen (e)(1080)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/40271
+#EXTINF:-1,24/7 Comedia Sangrienta (e)(1080)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/40279
+#EXTINF:-1,24/7 Supervivencia (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/40282
+#EXTINF:-1,24/7 Estrenos 2019 (e)(1080)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/55349
+#EXTINF:-1,24/7 Estrenos 2020 (e)(1080)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/55628
+#EXTINF:-1,24/7 Superman (e)(720)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/58181
+#EXTINF:-1,24/7 Dragon Ball Peliculas (e)(1080)
+http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/119556
+#EXTINF:-1,Batman: El asalto de Arkham (2014)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200713.mkv
+#EXTINF:-1,Batman: Año Uno (2011)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200714.mkv
+#EXTINF:-1,Batman: Capucha Roja (2010)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200715.mp4
+#EXTINF:-1,Batman: El misterio de Batwoman (2003)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200716.mp4
+#EXTINF:-1,Batman: El regreso del Caballero Oscuro, Parte 1 (2012)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200717.mp4
+#EXTINF:-1,Batman: El regreso del Caballero Oscuro, Parte 2 (2013)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200718.mp4
+#EXTINF:-1,Batman: El regreso de los cruzados enmascarados (2016)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200719.mkv
+#EXTINF:-1,Batman: Guardián de Gotham (2008)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200720.mkv
+#EXTINF:-1,Batman: La broma asesina (2016)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200721.mkv
+#EXTINF:-1,Batman: La máscara del fantasma (1993)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200722.mkv
+#EXTINF:-1,Batman Ciudad Gotica Luz de Gas (2018)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200723.mkv
+#EXTINF:-1,Batman contra Drácula (2005)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200724.mkv
+#EXTINF:-1,Batman del futuro: El regreso del Joker (2000)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200725.mkv
+#EXTINF:-1,Batman del futuro El retorno del Joker (1999)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200726.mkv
+#EXTINF:-1,Batman: Hush (2019)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200727.mkv
+#EXTINF:-1,Batman: Mala sangre (2016)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200728.mkv
+#EXTINF:-1,Batman Ninja (2018)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200729.mkv
+#EXTINF:-1,Batman Unlimited: Instinto animal (2015)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200730.mkv
+#EXTINF:-1,Batman Unlimited: Monstermania (2015)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200731.mkv
+#EXTINF:-1,Batman Unlimited: Máquinas vs. Monstruos (2016)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200732.mp4
+#EXTINF:-1,Batman Vs. Dos Caras (2017)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200733.mp4
+#EXTINF:-1,Batman vs. las Tortugas Ninja (2019)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200734.mkv
+#EXTINF:-1,Batman contra Drácula (2005)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200735.mp4
+#EXTINF:-1,Batman contra Robin (2015)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200736.mkv
+#EXTINF:-1,Batman y Harley Quinn (2017)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200737.mp4
+#EXTINF:-1,Doctor Extraño: El hechicero supremo (2007)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200776.mkv
+#EXTINF:-1,La Liga de la Justicia: atrapados en el tiempo (2014)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200850.mp4
+#EXTINF:-1,La Liga de la Justicia: El trono de Atlantis (2015)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200851.mkv
+#EXTINF:-1,Justice League: War (2014)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200852.mp4
+#EXTINF:-1,La Liga de la Justicia: La nueva frontera (2008)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200853.mp4
+#EXTINF:-1,Justice League: The Flashpoint Paradox (2013)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200854.mp4
+#EXTINF:-1,La Liga de la Justicia contra los Jóvenes Titanes (2016)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200855.mp4
+#EXTINF:-1,La Liga de la Justicia Oscura (2017)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200856.mkv
+#EXTINF:-1,Batman: La LEGO película (2017)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200865.mp4
+#EXTINF:-1,LEGO DC Batman: La Bat-familia importa (2019)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200866.mkv
+#EXTINF:-1,LEGO DC: ¡Shazam! Magia y monstruos (2020)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200867.mkv
+#EXTINF:-1,LEGO Aquaman: La ira de Atlantis (2018)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200868.mkv
+#EXTINF:-1,LEGO Jurassic World The Secret Exhibit (2018)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200869.mkv
+#EXTINF:-1,LEGO La Liga de la Justicia: Fuga de Gotham (2016)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200870.mp4
+#EXTINF:-1,La Liga de la Justicia contra la Liga de Bizarro (2015)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200871.mp4
+#EXTINF:-1,LEGO Scooby-Doo!: Hollywood encantado (2016)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200872.avi
+#EXTINF:-1,Batman: La LEGO película (2017)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200873.mp4
+#EXTINF:-1,Linterna Verde: Caballeros Esmeralda (2011)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200875.mp4
+#EXTINF:-1,Linterna Verde: Primer vuelo (2009)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200876.mp4
+#EXTINF:-1,Los hermanos guardianes (2016)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200877.avi
+#EXTINF:-1,Los Vengadores: Justicia y venganza (2014)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200882.mp4
+#EXTINF:-1,Planet Hulk (2010)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200911.avi
+#EXTINF:-1,Planet Hulk (2010)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200911.avi
+#EXTINF:-1,Superman: Brainiac ataca (2006)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200939.mp4
+#EXTINF:-1,Superman vs. La Élite (2012)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200940.mp4
+#EXTINF:-1,Superman/Batman: Enemigos públicos (2009)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200941.mp4
+#EXTINF:-1,Superman/Batman: Apocalipsis (2010)
+#EXTINF:-1,La Muerte y El Regreso de Superman (2019)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200951.mkv
+#EXTINF:-1,Transformers: La película (1986)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200959.mp4
+#EXTINF:-1,Thor: Tales of Asgard (2011)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/200961.avi
+#EXTINF:-1,Junto A Los Dioses: Los Ultimos 49 Dias (2018)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/202946.mkv
+#EXTINF:-1,Junto a los Dioses: Los dos mundos (2017)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/202947.mkv
+#EXTINF:-1,Deathstroke: Caballeros y Dragones (2020)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203030.mkv
+#EXTINF:-1,Mortal Kombat Legends: La venganza de Scorpion (2020)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203210.mkv
+#EXTINF:-1,Batman: Alma de Dragón (2021)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203475.mkv
+#EXTINF:-1,Batman: El Largo Halloween, Parte 1 (2021)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203476.mkv
+#EXTINF:-1,Dragon Ball: Gran aventura mística (1988)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203558.mkv
+#EXTINF:-1,Dragon Ball: El camino hacia el más fuerte (1996)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203559.mkv
+#EXTINF:-1,Dragon Ball - El cuerpo de bomberos de Goku (1988)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203560.mkv
+#EXTINF:-1,Dragon Ball GT: 100 años después (1997)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203561.mkv
+#EXTINF:-1,Dragon Ball: La princesa durmiente del castillo del mal (1987)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203562.mkv
+#EXTINF:-1,Dragon Ball: La leyenda del dragón Shenron (1986)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203563.mkv
+#EXTINF:-1,Dragon Ball - Seguridad Vial con Goku (1988)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203564.mkv
+#EXTINF:-1,Dragon Ball Super: Broly (2018)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203565.mkv
+#EXTINF:-1,Dragon Ball Z: El ataque del dragón (1995)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203566.mkv
+#EXTINF:-1,Dragon Ball Z: El combate definitivo (1994)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203567.mkv
+#EXTINF:-1,Dragon Ball Z: El más fuerte del mundo (1990)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203568.mkv
+#EXTINF:-1,Dragon Ball Z: El regreso de Broly (1994)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203569.mkv
+#EXTINF:-1,Dragon Ball Z El secuestro de Gohan (1989)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203570.mkv
+#EXTINF:-1,Dragon Ball Z: El super guerrero Son Goku (1991)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203571.mkv
+#EXTINF:-1,Dragon Ball Z: El último combate (1990)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203572.mkv
+#EXTINF:-1,Dragon Ball Z: Episodio de Bardock (2011)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203573.mkv
+#EXTINF:-1,Dragon Ball Z: Estalla el duelo (1993)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203574.mkv
+#EXTINF:-1,Dragon Ball Z Gaiden: El plan para destruir a los Superguerreros (1993)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203575.mkv
+#EXTINF:-1,Dragon Ball Z: Guerreros de fuerza ilimitada (1992)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203576.mkv
+#EXTINF:-1,Dragon Ball Z: La Batalla de los Dioses (2013)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203577.mkv
+#EXTINF:-1,Dragon Ball Z: La resurrección de Freezer (2015)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203578.mkv
+#EXTINF:-1,Dragon Ball Z: La super batalla (1990)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203579.mkv
+#EXTINF:-1,Dragon Ball Z: Los guerreros de plata (1993)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203580.mkv
+#EXTINF:-1,Dragon Ball Z: Los mejores rivales (1991)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203581.mkv
+#EXTINF:-1,Dragon Ball Z: Los tres grandes Super Saiyans (1992)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203582.mkv
+#EXTINF:-1,Dragon Ball Z: Plan para erradicar a los Super Saiyans (2010)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203583.mkv
+#EXTINF:-1,Los dos guerreros del futuro: Gohan y Trunks (1993)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203584.mkv
+#EXTINF:-1,Dragon Ball Z: Vuelven Son Goku y sus amigos (2008)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203585.mkv
+#EXTINF:-1,Dragon Ball Z: ¡Fusión! (1995)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203586.mkv
+#EXTINF:-1,Dragon Ball Z: ¡Reuniros! El mundo de Goku (1992)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203587.mkv
+#EXTINF:-1,Inuyasha, la película 2: El castillo de los sueños en el interior del espejo (2002)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203612.mkv
+#EXTINF:-1,Inuyasha, la película 3: La espada conquistadora (2003)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203613.mkv
+#EXTINF:-1,Inuyasha, la película 4: Fuego en la isla mística (2004)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203614.mkv
+#EXTINF:-1,Inuyasha, la película: La batalla a través del tiempo (2001)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203615.mkv
+#EXTINF:-1,Los Caballeros del Zodiaco: La batalla de los dioses (1988)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203621.mkv
+#EXTINF:-1,Los Caballeros del Zodiaco: La diosa malvada Eris (1987)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203622.mkv
+#EXTINF:-1,Los Caballeros del Zodiaco: La leyenda de los santos escarlatas (1988)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203623.mkv
+#EXTINF:-1,Los Caballeros del Zodiaco:  Los guerreros de la última guerra santa (1989)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203624.mkv
+#EXTINF:-1,Los Caballeros del Zodiaco: Capítulo del cielo - Overture (2004)
+http://tv.onplas.xyz:39001/movie/elwepaman/CphvdYcr8A/203625.mkv
